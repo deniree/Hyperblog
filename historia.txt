@@ -1,4 +1,5 @@
 esta es la historia de freddy vega
 tiene 50 años 
 nacio en colombia y vive en todo el mundo 
-profesor de git
+
+Hoy hablaremos de su vida
